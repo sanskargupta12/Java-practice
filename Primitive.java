@@ -5,6 +5,6 @@ public class Primitive{
      float marks= 88.67f;
      double largedeci= 83838933893.8889;
      long largeinteger= 73892137894199810019L;
-     boolean check= false;
+     boolean check= true;
    }
 }
