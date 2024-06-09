@@ -6,7 +6,7 @@ class WhileLoopDemo {
     int i = 1;
 
 		while (i < 6) {
-			System.out.println("Hello World!!");
+			System.out.println("Hello World!!!!");
 
 			i++;
 		}
