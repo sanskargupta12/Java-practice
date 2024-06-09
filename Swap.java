@@ -10,7 +10,7 @@ class Swap {
        t = x;  
        x = y;  
        y = t;  
-       System.out.println("After swapping: "+x +"   " + y);  
+       System.out.println("After swapping: "+x +"  " + y);  
        System.out.println( );  
     }    
 }  
