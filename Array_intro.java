@@ -2,7 +2,6 @@
 public class Array_intro {
 
     public static void main(String[] args) {
-        // Q: store a roll number
         int a = 19;
 
         // Q: store a person's name
