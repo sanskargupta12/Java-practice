@@ -13,7 +13,6 @@ public class Array_intro {
         int rno2 = 55;
         int rno3 = 18;
 
-        // datatype[] variable_name = new datatype[size];
         // store 5 roll numbers:
 //        int[] rnos = new int[5];
 //        // or directly
