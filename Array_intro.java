@@ -7,7 +7,7 @@ public class Array_intro {
        
         String name = "Kunal Kushwaha";
 
-        // Q: store 5 roll numbers
+        
         int rno1 = 23;
         int rno2 = 55;
         int rno3 = 18;
