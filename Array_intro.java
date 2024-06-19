@@ -4,7 +4,7 @@ public class Array_intro {
     public static void main(String[] args) {
         int a = 19;
 
-        // Q: store a person's name
+       
         String name = "Kunal Kushwaha";
 
         // Q: store 5 roll numbers
