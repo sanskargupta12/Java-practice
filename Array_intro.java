@@ -17,7 +17,7 @@ public class Array_intro {
 //        // or directly
 //        int[] rnos2 = {23, 12, 45, 32, 15};
 
-        int[] ros; // declaration of array. ros is getting defined in the stack
+        int[] ros; // declaration of array. ros is getting defined in stack
         ros = new int[5]; // initialisation: actually here object is being created in the memory (heap)
 
 //        System.out.println(ros[1]);
