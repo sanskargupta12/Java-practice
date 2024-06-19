@@ -12,7 +12,7 @@ public class Array_intro {
         int rno2 = 55;
         int rno3 = 18;
 
-        // store 5 roll numbers:
+       
 //        int[] rnos = new int[5];
 //        // or directly
 //        int[] rnos2 = {23, 12, 45, 32, 15};
