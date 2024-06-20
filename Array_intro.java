@@ -18,9 +18,10 @@ public class Array_intro {
 //        int[] rnos2 = {23, 12, 45, 32, 15};
 
         int[] ros; // declaration of array. ros is getting defined in stack
-        ros = new int[5]; // initialisation: actually here object is being created in the memory (heap)
+        ros = new int[5]; // initialisation: actually here object is
 
-//        System.out.println(ros[1]);
+//   
+    System.out.println(ros[1]);
 
         String[] arr = new String[4];
         System.out.println(arr[0]);
