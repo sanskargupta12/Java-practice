@@ -18,7 +18,7 @@ public class Array_intro {
 //        int[] rnos2 = {23, 12, 45, 32, 15};
 
         int[] ros; // declaration of array. ros is getting defined in stack
-        ros = new int[5]; // 
+        ros = new int[5]; 
     System.out.println(ros[1]);
 
         String[] arr = new String[4];
