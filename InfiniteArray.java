@@ -11,7 +11,7 @@ public class InfiniteArray {
         int end = 1;
 
         while (target > arr[end]) {
-            int temp = end + 1; // this is my new start
+            int temp = end + 1; 
             end = end + (end - start + 1) * 2;
             start = temp;
         }
