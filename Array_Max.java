@@ -4,7 +4,7 @@ public class Array_Max {
         System.out.println(maxRange(arr, 1, 3));
     }
 
-    // work on edge 
+    
     static int maxRange(int[] arr, int start, int end) {
 
         if (start > end) {
