@@ -7,7 +7,7 @@ public class ArrayInput {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        // array of 
+        // arra
         int[] arr = new int[5];
         arr[0] = 23;
         arr[1] = 45;
