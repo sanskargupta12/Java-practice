@@ -14,7 +14,7 @@ public class ArrayInput {
         arr[2] = 233;
         arr[3] = 543;
         arr[4] = 3;
-        // 
+    
         System.out.println(arr[3]);
 
        
