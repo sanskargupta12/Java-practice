@@ -29,7 +29,7 @@ public class ArrayInput {
 //        }
 
 //        for(int num : arr) { // for every element in array, print the element
-//            System.out.print(num + " "); //  here num
+//            System.out.print(num + " "); //  here
 //       }
 
 //        System.out.println(arr[5]); // index out of bound error
