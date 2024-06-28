@@ -29,8 +29,8 @@ public class ArrayInput {
 //        }
 
 //        for(int num : arr) { // for every element in array, print the element
-//            System.out.print(num + " "); //  here num represents element of the array
-//        }
+//            System.out.print(num + " "); //  here num represents 
+//       }
 
 //        System.out.println(arr[5]); // index out of bound error
 
