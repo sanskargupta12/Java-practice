@@ -34,7 +34,7 @@ public class ArrayInput {
 
 //        System.out.println(arr[5]); // index out of bound error
 
-        // array o
+        
         String[] str = new String[4];
         for (int i = 0; i < str.length; i++) {
             str[i] = in.next();
