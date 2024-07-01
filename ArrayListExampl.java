@@ -29,7 +29,7 @@ public class ArrayListExample {
 
         // get item at any index
         for (int i = 0; i < 5; i++) {
-            System.out.println(list.get(i)); // pass index 
+            System.out.println(list.get(i)); // pass 
         }
 
         System.out.println(list);
