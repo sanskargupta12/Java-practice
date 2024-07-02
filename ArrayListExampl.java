@@ -22,7 +22,7 @@ public class ArrayListExample {
 //
 //        System.out.println(list);
 
-        // input
+    
         for (int i = 0; i < 5; i++) {
             list.add(in.nextInt());
         }
