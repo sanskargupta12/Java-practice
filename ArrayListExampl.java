@@ -27,7 +27,7 @@ public class ArrayListExample {
             list.add(in.nextInt());
         }
 
-        // ge
+        // g
         for (int i = 0; i < 5; i++) {
             System.out.println(list.get(i)); 
         }
