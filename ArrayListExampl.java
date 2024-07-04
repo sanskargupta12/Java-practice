@@ -27,7 +27,7 @@ public class ArrayListExample {
             list.add(in.nextInt());
         }
 
-        // hey this is your caption speakinggg this will be using as comminting for like 1 week
+        // hey this is your caption speakinggg this will be using as comminting for like 1 
         for (int i = 0; i < 5; i++) {
             System.out.println(list.get(i)); 
         }
