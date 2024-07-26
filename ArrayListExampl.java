@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+
+// hey this is your caption speakinggg this will be using as caption aand nothing much //
+
+
 public class ArrayListExample {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
