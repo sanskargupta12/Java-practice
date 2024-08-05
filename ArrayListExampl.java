@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 
-// hey this is your caption speaking this will be using as caption and nothing much 
+// hey this is your caption speaking this will be using as caption and nothing much /
 
 
 public class ArrayListExample {
